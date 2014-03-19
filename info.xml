@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<extension key="org.gsoc.candidates" type="module">
+  <file>candidates</file>
+  <name>List of candidates for the google summer of code</name>
+  <description>Dummy extension to show the workflow</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Xavier Dutoit</author>
+    <email>xavier@tttp.eu</email>
+  </maintainer>
+  <releaseDate>2014-03-19</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.2</ver>
+  </compatibility>
+  <comments>This is a new, undeveloped module that will never be used for real</comments>
+  <civix>
+    <namespace>CRM/Candidates</namespace>
+  </civix>
+</extension>

@@ -6,5 +6,6 @@
 
 <ul>
 <li>Pankaj Kumar Sharma (pankajksharma)</li>
+<li>Siddharth Gupta (<a href="https://github.com/siddharthg" target="_blank">siddharthg</a>)
 <li><!-- your name here --></li>
 </ul>

@@ -7,5 +7,8 @@
 <ul>
 <li>Pankaj Kumar Sharma (pankajksharma)</li>
 <li>Siddharth Gupta (<a href="https://github.com/siddharthg" target="_blank">siddharthg</a>)
+<li>Torrance Hodgson</li>
+<li>Md. Eftakhairul Islam</li>
+<li>Rahul Teja Amilineni</li>
 <li><!-- your name here --></li>
 </ul>

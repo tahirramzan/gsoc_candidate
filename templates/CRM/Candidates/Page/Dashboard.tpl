@@ -10,5 +10,5 @@
 <li>Torrance Hodgson</li>
 <li>Md. Eftakhairul Islam</li>
 <li>Rahul Teja Amilineni</li>
-<li><!-- your name here --></li>
+<li>Siddhant Rajagopalan</li>
 </ul>

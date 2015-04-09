@@ -20,3 +20,6 @@ I have no doubt that you can add your name to a file, the aim it to provide a pl
 The point is not to show us that you know everything about civi, but that you can manage the publication process. If you are stuck, feel free to ask in the forum. One common issue when you install extensions from git is that you have caches and need to refresh them to see the extension in the list.
 
 If you know github and is familiar with this workflow and have civicrm already installed, it should take you 15min. Don't panic if it takes longer, it's normal, installing a dev environment is often what takes the longest in a project.
+
+## Shortcuts and cheatcodes
+Github offers an option to edit a file via the web interface. So you can do that task without using git at all. We like hacks and creative workaround, but that one would be cheating, and it wouldn't be good for your karma. As in, the chances of passing the midterm (and being paid) are very low if you aren't able to do stuff in git. 

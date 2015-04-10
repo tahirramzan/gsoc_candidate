@@ -9,4 +9,5 @@
 <li>Mohit Aggarwal</li>
 <li>Utkarsh Sharma</li>
 <li>Vishal Agarwal</li>
+<li>Anudit Verma</li>
 </ul>

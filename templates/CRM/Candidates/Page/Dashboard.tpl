@@ -5,6 +5,10 @@
 <p>Dear Candidate, to let you be more familiar with our workflow on github, could you clone this page, add your name, commit, push and do a pull request?
 
 <ul>
-<li>Tahir Ramzan(Virtual University of Pakistan)</li>
-<li>CiviCRM Refunds and Partial Payments(GSoC 2015)</li>
+<li>Donald Knuth (example)</li>
+<li>Mohit Aggarwal</li>
+<li>Utkarsh Sharma</li>
+<li>Vishal Agarwal</li>
+<li>Anudit Verma</li>
+<li>Tahir Ramzan</li>
 </ul>
